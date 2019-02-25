@@ -1,0 +1,20 @@
+header{
+  background:  #5b7989;
+  border-radius: 10px 10px 0px 0px;
+}
+h1{
+  text-align: left;
+  color: white;
+  text-shadow: 2px 2px #02010a;
+}
+/*Columnas*/
+.newspaper {
+  -webkit-column-count: 4; /* Chrome, Safari, Opera */
+  -moz-column-count: 4; /* Firefox */
+  column-count: 4;
+  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+  -moz-column-gap: 40px; /* Firefox */
+  column-gap: 40px;
+
+
+}
